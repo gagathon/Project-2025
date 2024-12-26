@@ -5,7 +5,7 @@ Welcome to **Project 2025**! 🎉
 This repository is a personal initiative to document my learning journey as I work on one project every month throughout the year 2025. As a BCA student at SMIT, Sikkim, I aim to explore various technologies, programming concepts, and real-world applications through hands-on projects.  
 
 ## 🚀 Objectives  
-- Create one meaningful project every month.  
+- Create at least two meaningful project every month.  
 - Strengthen my programming and problem-solving skills.  
 - Explore tools and technologies relevant to the industry.  
 - Share my journey with the tech community.  
